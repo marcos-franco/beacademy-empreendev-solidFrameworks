@@ -10,7 +10,7 @@ Introdução ao módulo, Os 5 Princípios do SOLID, SOLID-Aplicado ao JavaScript
 
 
 ### 🛠 Conteúdo do Curso:
-- SOLID
+- SOLID e Frameworks
 
 ### Status do Projeto:
 30% concluido, ainda em fase de conclusão, favor aguardar! 
